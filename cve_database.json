@@ -1,0 +1,82 @@
+[
+  {
+    "id": "CVE-2021-41773",
+    "description": "Apache HTTP Server Path Traversal vulnerability in version 2.4.49",
+    "indicators": ["Apache/2.4.49"]
+  },
+  {
+    "id": "CVE-2022-22965",
+    "description": "Spring4Shell - Spring Framework RCE via Data Binding",
+    "indicators": ["Spring", "spring-core", "springframework"]
+  },
+  {
+    "id": "CVE-2021-44228",
+    "description": "Log4Shell - RCE in Apache Log4j 2.x <= 2.14.1",
+    "indicators": ["log4j", "Apache-Log4j"]
+  },
+  {
+    "id": "CVE-2020-14750",
+    "description": "WebLogic Server RCE vulnerability",
+    "indicators": ["WebLogic", "Oracle WebLogic"]
+  },
+  {
+    "id": "CVE-2018-11776",
+    "description": "Apache Struts RCE vulnerability in improper namespace handling",
+    "indicators": ["Apache Struts", "Struts"]
+  },
+  {
+    "id": "CVE-2022-1388",
+    "description": "F5 BIG-IP iControl REST Authentication Bypass and RCE",
+    "indicators": ["BIG-IP", "F5", "X-F5-Auth-Token"]
+  },
+  {
+    "id": "CVE-2019-2725",
+    "description": "WebLogic deserialization RCE via XMLDecoder",
+    "indicators": ["WebLogic", "XMLDecoder"]
+  },
+  {
+    "id": "CVE-2017-5638",
+    "description": "Apache Struts Jakarta Multipart Parser RCE",
+    "indicators": ["Apache Struts", "Jakarta Multipart"]
+  },
+  {
+    "id": "CVE-2014-6271",
+    "description": "Shellshock Bash vulnerability",
+    "indicators": ["CGI", "Shellshock", "Bash"]
+  },
+  {
+    "id": "CVE-2015-4852",
+    "description": "Apache Commons Collections deserialization RCE",
+    "indicators": ["CommonsCollections", "Apache Commons"]
+  },
+  {
+    "id": "CVE-2021-26855",
+    "description": "Microsoft Exchange SSRF vulnerability (ProxyLogon)",
+    "indicators": ["Microsoft Exchange", "X-RoutingDomain"]
+  },
+  {
+    "id": "CVE-2021-22986",
+    "description": "F5 BIG-IP unauthenticated RCE",
+    "indicators": ["BIG-IP", "F5"]
+  },
+  {
+    "id": "CVE-2022-0847",
+    "description": "Dirty Pipe - Local privilege escalation in Linux kernel 5.8+",
+    "indicators": ["Linux", "5.8", "dirty_pipe"]
+  },
+  {
+    "id": "CVE-2021-3156",
+    "description": "Baron Samedit sudo heap overflow",
+    "indicators": ["sudo", "Baron Samedit"]
+  },
+  {
+    "id": "CVE-2023-34362",
+    "description": "MOVEit Transfer SQLi zero-day used for mass exploitation",
+    "indicators": ["MOVEit", "Ipswitch"]
+  },
+  {
+    "id": "CVE-2023-4966",
+    "description": "Citrix Bleed vulnerability (NetScaler ADC/Gateway)",
+    "indicators": ["Citrix", "NetScaler", "NSC_USER"]
+  }
+]

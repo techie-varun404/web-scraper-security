@@ -1,0 +1,45 @@
+===============================================
+Website Security Scanner Report
+===============================================
+
+URL: http://zero.webappsecurity.com
+Status Code: 200
+
+Matched CVEs:
+- None
+
+Page Title:
+- Zero - Personal Banking - Loans - Credit Cards
+
+Top 10 Important Links:
+- https://www.microfocus.com/about/legal/#privacy
+- https://www.microfocus.com/about/legal/#privacy
+- http://zero.webappsecurity.com/index.html
+- http://zero.webappsecurity.com#carousel
+- http://zero.webappsecurity.com#carousel
+
+WHOIS Info:
+- Domain: WEBAPPSECURITY.COM
+- Registrar: Safenames Ltd
+- Creation: 2001-05-24 20:55:58
+- Expiration: 2026-05-24 20:55:58
+- Domain Age: 8824 days
+
+Open Ports:
+- Port 80 (HTTP) is OPEN
+- Port 443 (HTTPS) is OPEN
+- Port 8080 (HTTP-Alt) is OPEN
+
+Missing Security Headers:
+- X-Content-Type-Options
+- Strict-Transport-Security
+- Content-Security-Policy
+- X-Frame-Options
+- X-XSS-Protection
+
+Fingerprint Warnings:
+- Outdated Apache version: Apache-Coyote/1.1
+
+===============================================
+End of Report
+===============================================
