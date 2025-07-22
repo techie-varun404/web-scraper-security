@@ -33,8 +33,8 @@ pip install -r requirements.txt
 
  Usage
 ```bash
-cd src
-python main.py
+cd web-scraper-security
+python3 main.py
 ```
 You'll be prompted to enter the target URL.
 The scan report will be saved in the reports/ folder.
