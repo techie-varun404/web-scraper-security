@@ -56,7 +56,6 @@ web-scraper-security/
 
 Sample Output
 pgsql
-Copy code
 [+] Target: https://zero.webappsecurity.com
 [+] Ports Open: 80 (HTTP), 443 (HTTPS)
 [+] Server: nginx
